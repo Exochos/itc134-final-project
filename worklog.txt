@@ -1,3 +1,5 @@
+3) 11/20/19: Hanna Negash researched and experimented on how to build MEAN then writing the procedures on google doc. This is so others can go ahead (2hrs).
+
 2) 11/19/19: Hanna Negash researched on the meaning of MEAN and what it is. Then wrote down the information on a google doc. (2.30hrs)
 
 1)  David Barnette 2019.11.19: Started github, we decided on MEAN stack, we decided on roles all during class. I will be lead as well as
