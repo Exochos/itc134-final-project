@@ -1,6 +1,5 @@
 # ITC134-final-project
-
-# How to build a MEAN Stack?
+  # How to build a MEAN Stack?
 
 Repository for tutorials on the following:
 
