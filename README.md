@@ -7,7 +7,8 @@ Repository for tutorials on the following:
 2. [Link to MEAN stack tutorial](https://docs.google.com/document/d/1fheRGRmCnKE9--q7_Midv8FHGAHYjVh9A80v4QL0cfo/edit) 
 
 3. How to build a 'Hello World' web app on a MEAN stack tutorial?
-  a. [Link to webapp example](https://illthid.github.io/itc134-final-project/)
+ 
+ a. [Link to webapp example](https://illthid.github.io/itc134-final-project/)
 
 # Roles
 
