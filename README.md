@@ -12,16 +12,10 @@ Repository for tutorials on the following:
 
 # Roles:
 
-Website Design: Kidane
-
-Web App Design: Mohamed
-
-How to “stack”: Kevin 
-
-How to “app”: Kevin
-
-Research/review/edit: Hanna
-
-Stack Design: Daniel
-
-Lead/github management: David
+Website Design: Kidane \
+Web App Design: Mohamed \
+How to “stack”: Kevin \
+How to “app”: Kevin \
+Research/review/edit: Hanna \
+Stack Design: Daniel \
+Lead/github management: David \
