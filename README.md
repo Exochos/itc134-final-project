@@ -25,4 +25,4 @@ Stack Design: Daniel
 
 Lead/github management: David
 
-In This repository is the code for our Hello World app using html and css. If you clone this repository you will get it as well/
+In This repository is the code for our Hello World app using html and css. If you clone this repository you will get it as well.
