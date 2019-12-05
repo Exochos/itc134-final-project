@@ -8,7 +8,7 @@
 - Kevin Kantono: kev.in.jk@hotmail.com
 - David barnette: barnettedavid@gmail.com
 
-Repository for tutorials on the following:
+# Repository for tutorials on the following:
 
 1. [Link to Website describing project](https://illthid.github.io/itc134-final-project/) 
 2. [Link to MEAN stack tutorial](https://docs.google.com/document/d/1fheRGRmCnKE9--q7_Midv8FHGAHYjVh9A80v4QL0cfo/edit)
