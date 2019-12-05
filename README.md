@@ -1,5 +1,13 @@
 # ITC134-final-project: How to build a MEAN Stack?
 
+# Author’s Contacts:
+Daniel Gebreselassie: eyerusalemdani@gmail.com
+Kidane Hailemichael: kidanegidey2018@gmail.com
+Hanna Negash: hannyhabte@yahoo.com 
+Mohamed ali: mohaalig@gmail.com
+Kevin Kantono: kev.in.jk@hotmail.com
+David barnette: barnettedavid@gmail.com
+
 Repository for tutorials on the following:
 
 1. [Link to Website describing project](https://illthid.github.io/itc134-final-project/) 
@@ -11,7 +19,6 @@ Repository for tutorials on the following:
   
 
 # Roles:
-
 Website Design: Kidane \
 Web App Design: Mohamed \
 How to “stack”: Kevin \
@@ -19,3 +26,6 @@ How to “app”: Kevin \
 Research/review/edit, how to stack: Hanna \
 Stack Design: Daniel \
 Lead/github management: David
+
+
+
