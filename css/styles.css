@@ -1,73 +1,59 @@
-@import url('https://fonts.googleapis.com/css?family=Allura|Josefin+Sans');
+body {
+    margin: 0 auto;
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
 }
 
-body{
-  background: #81c644;
-  font-family: 'Josefin Sans', sans-serif;
+
+header{
+    margin: 0 auto;
+    width: 50%;
+    overflow: hidden;
 }
 
-.wrapper{
-  margin-top: 10%;
+img.header{
+    float:left;
+    width: 20%;
 }
 
-.wrapper h1{
-  font-family: 'Allura', cursive;
-  font-size: 52px;
-  margin-bottom: 60px;
-  text-align: center;
+h1.header{
+    float: right;
+    width: 70%;
+    text-align: center;
 }
 
-.team{
-  display: flex;
-  justify-content: center;
-  width: auto;
-  text-align: center;
-  flex-wrap: wrap;
+#display {
+    background-color:chartreuse;
+    width: 45%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    font-size: 2em;
+    margin-bottom: 10px;
 }
 
-.team .team_member{
-  background: #fff;
-  margin: 5px;
-  margin-bottom: 50px;
-  width: 300px;
-  padding: 20px;
-  line-height: 20px;
-  color: #8e8b8b;  
-  position: relative;
+button{
+    border-radius: 3em;
+    width: 25%;
 }
 
-.team .team_member h3{
-  color: #81c644;
-  font-size: 26px;
-  margin-top: 50px;
+
+section.application{
+    background:#C0BECD;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    text-align: center;
 }
 
-.team .team_member p.role{
-  color: #ccc;
-  margin: 12px 0;
-  font-size: 12px;
-  text-transform: uppercase;
+.welcome {
+    text-align: center;
+    
 }
 
-.team .team_member .team_img{
-  position: absolute;
-  top: -50px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  background: #fff;
+label{
+    display: block;
 }
 
-.team .team_member .team_img img{
-  width: 100px;
-  height: 100px;
-  padding: 5px;
+p{
+    font-size: 1.15em;
 }
-
