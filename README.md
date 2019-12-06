@@ -4,9 +4,9 @@
 - Daniel Gebreselassie: eyerusalemdani@gmail.com
 - Kidane Hailemichael: kidanegidey2018@gmail.com
 - Hanna Negash: hannyhabte@yahoo.com 
-- Mohamed ali: mohaalig@gmail.com
+- Mohamed Ali: mohaalig@gmail.com
 - Kevin Kantono: kev.in.jk@hotmail.com
-- David barnette: barnettedavid@gmail.com
+- David Barnette: barnettedavid@gmail.com
 
 # Repository for tutorials on the following:
 
