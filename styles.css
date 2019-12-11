@@ -7,7 +7,7 @@
 }
 
 body{
-  background: #81c644;
+  background:#ef764561;
   font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .team .team_member h3{
-  color: #81c644;
+  color: black;
   font-size: 26px;
   margin-top: 50px;
 }
@@ -81,6 +81,15 @@ body{
     
 }
 
+p{
+    line-height: 1.5em;
+    margin-bottom: 10px;
+    color: black;
+}
+
+h3{
+    margin-bottom: 10px;
+}
 
     
     
